@@ -9,6 +9,10 @@ body {
     border: 1px solid #289bde;
 }
 
+.carousel-item {
+    position: relative;
+}
+
 .carousel-item:before {
     content: "";
     display: block;
@@ -22,8 +26,7 @@ body {
 }
 
 .carousel-caption {
-    margin: 50px 50px 170px 100px;
-
+    bottom: 10.25rem;
 
 }
 
