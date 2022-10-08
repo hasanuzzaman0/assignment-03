@@ -86,3 +86,33 @@ body {
 .Price {
     font-size: 15px;
 }
+
+.Questions {
+    font-size: 45px;
+}
+
+.layout {
+    font-size: 13px;
+    color: #777777;
+}
+
+.company img {
+    width: 100px;
+    height: 20px;
+}
+
+.footer {
+    background-color: #000;
+}
+
+.footer-p {
+    font-size: 13px;
+    color: #999999;
+}
+
+.fa-brands {
+    background-color: #242424;
+    color: #fff;
+    width: 25px;
+
+}
